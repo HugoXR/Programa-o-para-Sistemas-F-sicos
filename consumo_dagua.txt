@@ -1,0 +1,20 @@
+'Cia de Tratamento de Esgotos, Agua Oxigenada e Soda Caustica'
+'Aki lavamos Euros, Libras Esterlinas e outros numerarios'
+'Medicao de consumo de agua em Rosamaba'
+'Data da medicao 1/04/2204'
+'Operador: Petrusco Parreiras'
+         1    1    2    2    3    3    4
+1234567890123456789012345678901234567890
+'Alsando Colar'                 8632 8782
+'Antonio Bife'                  4871 5532
+'Roberto Carlos Magalhaes Neto' 6345 6409
+'Golfin Neto'                   9897  103
+'Roseana Coronha'               5441 5613
+'Pablo Canasvieira'             6345 6409
+'Joao Alberto Arruda'           7122 7152
+'Aloino Mercantil'              6246 6253
+'Cristivano Sharque'            2431 2476
+'Eplogo Cafesal'                3221 3246
+'Ruperto Canasvieira'           8631 8752
+'Phil Web Holambra'             1234 1356
+'Gyl Berto Mirante'              521  571

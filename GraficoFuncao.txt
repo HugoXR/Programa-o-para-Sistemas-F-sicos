@@ -1,0 +1,82 @@
+======================================================================================================
+ Objetivo do programa: Dada uma funcao descontinua, calcular entre
+ os pontos inicial e final, incluíndo nos mesmos, o valor da funcao
+ nestes pontos
+
+ Autor: Hugo Xavier Rodrigues
+ Matricula: 190108622
+ Data do programa: 05-10-2020
+ Ultima modificacao: 07-10-2020
+
+ Digite o valor inicial de x: 
+-5
+ Digite o valor final de x: 
+15
+ Dada a função f(x), para cada valor de x entre [  -5.00000000     ,   15.0000000     ], tem-se que:
+
+ Para x =   -5.00000000    
+ f(x) =    1.00000000    
+
+ Para x =   -4.00000000    
+ f(x) =    1.00000000    
+
+ Para x =   -3.00000000    
+ f(x) =    1.00000000    
+
+ Para x =   -2.00000000    
+ f(x) =    1.00000000    
+
+ Para x =   -1.00000000    
+ f(x) =    1.00000000    
+
+ Para x =    0.00000000    
+ f(x) =    0.00000000    
+
+ Para x =    1.00000000    
+ f(x) =   0.333333343    
+
+ Para x =    2.00000000    
+ f(x) =    2.66666675    
+
+ Para x =    3.00000000    
+ f(x) =    9.00000000    
+
+ Para x =    4.00000000    
+ f(x) =    13.0000000    
+
+ Para x =    5.00000000    
+ f(x) =    17.0000000    
+
+ Para x =    6.00000000    
+ f(x) =    21.0000000    
+
+ Para x =    7.00000000    
+ f(x) =    25.0000000    
+
+ Para x =    8.00000000    
+ f(x) =    29.0000000    
+
+ Para x =    9.00000000    
+ f(x) =    33.0000000    
+
+ Para x =    10.0000000    
+ f(x) =    37.0000000    
+
+ Para x =    11.0000000    
+ f(x) =    41.0000000    
+
+ Para x =    12.0000000    
+ f(x) =    45.0000000    
+
+ Para x =    13.0000000    
+ f(x) =    49.0000000    
+
+ Para x =    14.0000000    
+ f(x) =    53.0000000    
+
+ Para x =    15.0000000    
+ f(x) =    57.0000000    
+
+
+
+=========================================================================================================

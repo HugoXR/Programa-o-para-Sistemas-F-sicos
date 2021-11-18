@@ -1,0 +1,96 @@
+ Aluno de numero            1
+ Matricula:          125
+ Nota :          100
+
+ Aluno de numero            2
+ Matricula:          824
+ Nota :          100
+
+ Aluno de numero            3
+ Matricula:          258
+ Nota :          100
+
+ Aluno de numero            4
+ Matricula:          129
+ Nota :           98
+
+ Aluno de numero            5
+ Matricula:          426
+ Nota :           97
+
+ Aluno de numero            6
+ Matricula:          530
+ Nota :           95
+
+ Aluno de numero            7
+ Matricula:          257
+ Nota :           92
+
+ Aluno de numero            8
+ Matricula:          357
+ Nota :           90
+
+ Aluno de numero            9
+ Matricula:          634
+ Nota :           88
+
+ Aluno de numero           10
+ Matricula:          143
+ Nota :           80
+
+ Aluno de numero           11
+ Matricula:          783
+ Nota :           79
+
+ Aluno de numero           12
+ Matricula:          231
+ Nota :           73
+
+ Aluno de numero           13
+ Matricula:          753
+ Nota :           72
+
+ Aluno de numero           14
+ Matricula:          293
+ Nota :           70
+
+ Aluno de numero           15
+ Matricula:          364
+ Nota :           70
+
+ Aluno de numero           16
+ Matricula:          628
+ Nota :           61
+
+ Aluno de numero           17
+ Matricula:          852
+ Nota :           58
+
+ Aluno de numero           18
+ Matricula:          953
+ Nota :           47
+
+ Aluno de numero           19
+ Matricula:          521
+ Nota :           35
+
+ Aluno de numero           20
+ Matricula:          627
+ Nota :           24
+
+ Aluno de numero           21
+ Matricula:          582
+ Nota :           11
+
+ A quantidade total de alunos e de          21
+
+ Menor Nota
+ Matricula:          582
+ Nota:           11
+
+ Maior Nota
+ Matricula:          125
+ Nota         100
+
+ A media destes alunos e:    73.3333359    
+ E o Desvio Padrao e de:    26.0601883    

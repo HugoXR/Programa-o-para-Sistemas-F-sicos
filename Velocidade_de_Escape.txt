@@ -1,0 +1,84 @@
+
+Terra
+==============================================================================
+ Objetivo do programa: Calcular a velocidade de escape no campo gravitacional
+ de diferentes corpos celestes
+
+ Autor: Hugo Xavier Rodrigues
+ Matricula: 190108622
+ Data do programa: 18-09-2020
+ Ultima modificacao: 30-09-2020
+
+ Digite o valor da massa do corpo celeste em Kg: 
+5.98E+24
+ Digite o valor da raio do corpo celeste em metros: 
+6.37E+6
+ Com a constante gravitacional G =    6.66999997E-11 m^3/kg s^2
+ 
+ Massa do Corpo =    5.97999978E+24 Kg
+ O Raio medio do Corpo =    6370000.00     m
+ Velocidade de escape para este Corpo celeste é:    11.1907396     Km/s
+=============================================================================
+ 
+Sirius
+============================================================================= 
+ Objetivo do programa: Calcular a velocidade de escape no campo gravitacional
+ de diferentes corpos celestes
+
+ Autor: Hugo Xavier Rodrigues
+ Matricula: 190108622
+ Data do programa: 18-09-2020
+ Ultima modificacao: 30-09-2020
+
+ Digite o valor da massa do corpo celeste em Kg: 
+2.00E+30
+ Digite o valor da raio do corpo celeste em metros: 
+1E+7
+ Com a constante gravitacional G =    6.66999997E-11 m^3/kg s^2
+ 
+ Massa do Corpo =    2.00000003E+30 Kg
+ O Raio medio do Corpo =    10000000.0     m
+ Velocidade de escape para este Corpo celeste é:    5165.26855     Km/s
+============================================================================
+
+Lua
+============================================================================
+Objetivo do programa: Calcular a velocidade de escape no campo gravitacional
+ de diferentes corpos celestes
+
+ Autor: Hugo Xavier Rodrigues
+ Matricula: 190108622
+ Data do programa: 18-09-2020
+ Ultima modificacao: 30-09-2020
+
+ Digite o valor da massa do corpo celeste em Kg: 
+7.36E+22
+ Digite o valor da raio do corpo celeste em metros: 
+1.74E+6
+ Com a constante gravitacional G =    6.66999997E-11 m^3/kg s^2
+ 
+ Massa do Corpo =    7.36000003E+22 Kg
+ O Raio medio do Corpo =    1740000.00     m
+ Velocidade de escape para este Corpo celeste é:    2.37542963     Km/s
+============================================================================
+
+Sol
+============================================================================
+Objetivo do programa: Calcular a velocidade de escape no campo gravitacional
+ de diferentes corpos celestes
+
+ Autor: Hugo Xavier Rodrigues
+ Matricula: 190108622
+ Data do programa: 18-09-2020
+ Ultima modificacao: 30-09-2020
+
+ Digite o valor da massa do corpo celeste em Kg: 
+1.99E+30
+ Digite o valor da raio do corpo celeste em metros: 
+6.96E+8
+ Com a constante gravitacional G =    6.66999997E-11 m^3/kg s^2
+ 
+ Massa do Corpo =    1.98999995E+30 Kg
+ O Raio medio do Corpo =    696000000.     m
+ Velocidade de escape para este Corpo celeste é:    617.589355     Km/s
+============================================================================

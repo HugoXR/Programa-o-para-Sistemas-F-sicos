@@ -1,0 +1,151 @@
+ Cia de Tratamento de Esgotos, Agua Oxigenada e Soda Caustica                                        
+ Aki lavamos Euros, Libras Esterlinas e outros numerarios                                            
+ Medicao de consumo de agua em Rosamaba                                                              
+ Data da medicao 1/04/2204                                                                           
+ Operador: Petrusco Parreiras                                                                        
+
+ Nome do consumidor: Alsando Colar                 
+ Leitura do consumo do mês anterior         8632
+ Leitura do consumo do mẽs corrente:         8782
+ Quantidade de agua(em metros cubicos) total consumida:          150
+ Valor a pagar:    2960.87012    
+ -------------------------------------------------------------------------------------
+ Cia de Tratamento de Esgotos, Agua Oxigenada e Soda Caustica                                        
+ Aki lavamos Euros, Libras Esterlinas e outros numerarios                                            
+ Medicao de consumo de agua em Rosamaba                                                              
+ Data da medicao 1/04/2204                                                                           
+ Operador: Petrusco Parreiras                                                                        
+
+ Nome do consumidor: Antonio Bife                  
+ Leitura do consumo do mês anterior         4871
+ Leitura do consumo do mẽs corrente:         5532
+ Quantidade de agua(em metros cubicos) total consumida:          661
+ Valor a pagar:    15158.4404    
+ -------------------------------------------------------------------------------------
+ Cia de Tratamento de Esgotos, Agua Oxigenada e Soda Caustica                                        
+ Aki lavamos Euros, Libras Esterlinas e outros numerarios                                            
+ Medicao de consumo de agua em Rosamaba                                                              
+ Data da medicao 1/04/2204                                                                           
+ Operador: Petrusco Parreiras                                                                        
+
+ Nome do consumidor: Roberto Carlos Magalhaes Neto 
+ Leitura do consumo do mês anterior         6345
+ Leitura do consumo do mẽs corrente:         6409
+ Quantidade de agua(em metros cubicos) total consumida:           64
+ Valor a pagar:    908.049988    
+ -------------------------------------------------------------------------------------
+ Cia de Tratamento de Esgotos, Agua Oxigenada e Soda Caustica                                        
+ Aki lavamos Euros, Libras Esterlinas e outros numerarios                                            
+ Medicao de consumo de agua em Rosamaba                                                              
+ Data da medicao 1/04/2204                                                                           
+ Operador: Petrusco Parreiras                                                                        
+ Leitura do mes corrente do consumidor Golfin Neto                    invalida
+ -------------------------------------------------------------------------------------
+ Cia de Tratamento de Esgotos, Agua Oxigenada e Soda Caustica                                        
+ Aki lavamos Euros, Libras Esterlinas e outros numerarios                                            
+ Medicao de consumo de agua em Rosamaba                                                              
+ Data da medicao 1/04/2204                                                                           
+ Operador: Petrusco Parreiras                                                                        
+
+ Nome do consumidor: Roseana Coronha               
+ Leitura do consumo do mês anterior         5441
+ Leitura do consumo do mẽs corrente:         5613
+ Quantidade de agua(em metros cubicos) total consumida:          172
+ Valor a pagar:    3486.01001    
+ -------------------------------------------------------------------------------------
+ Cia de Tratamento de Esgotos, Agua Oxigenada e Soda Caustica                                        
+ Aki lavamos Euros, Libras Esterlinas e outros numerarios                                            
+ Medicao de consumo de agua em Rosamaba                                                              
+ Data da medicao 1/04/2204                                                                           
+ Operador: Petrusco Parreiras                                                                        
+
+ Nome do consumidor: Pablo Canasvieira             
+ Leitura do consumo do mês anterior         6345
+ Leitura do consumo do mẽs corrente:         6409
+ Quantidade de agua(em metros cubicos) total consumida:           64
+ Valor a pagar:    908.049988    
+ -------------------------------------------------------------------------------------
+ Cia de Tratamento de Esgotos, Agua Oxigenada e Soda Caustica                                        
+ Aki lavamos Euros, Libras Esterlinas e outros numerarios                                            
+ Medicao de consumo de agua em Rosamaba                                                              
+ Data da medicao 1/04/2204                                                                           
+ Operador: Petrusco Parreiras                                                                        
+
+ Nome do consumidor: Joao Alberto Arruda           
+ Leitura do consumo do mês anterior         7122
+ Leitura do consumo do mẽs corrente:         7152
+ Quantidade de agua(em metros cubicos) total consumida:           30
+ Valor a pagar:    198.769989    
+ -------------------------------------------------------------------------------------
+ Cia de Tratamento de Esgotos, Agua Oxigenada e Soda Caustica                                        
+ Aki lavamos Euros, Libras Esterlinas e outros numerarios                                            
+ Medicao de consumo de agua em Rosamaba                                                              
+ Data da medicao 1/04/2204                                                                           
+ Operador: Petrusco Parreiras                                                                        
+
+ Nome do consumidor: Aloino Mercantil              
+ Leitura do consumo do mês anterior         6246
+ Leitura do consumo do mẽs corrente:         6253
+ Quantidade de agua(em metros cubicos) total consumida:            7
+ Valor a pagar:    20.9300003    
+ -------------------------------------------------------------------------------------
+ Cia de Tratamento de Esgotos, Agua Oxigenada e Soda Caustica                                        
+ Aki lavamos Euros, Libras Esterlinas e outros numerarios                                            
+ Medicao de consumo de agua em Rosamaba                                                              
+ Data da medicao 1/04/2204                                                                           
+ Operador: Petrusco Parreiras                                                                        
+
+ Nome do consumidor: Cristivano Sharque            
+ Leitura do consumo do mês anterior         2431
+ Leitura do consumo do mẽs corrente:         2476
+ Quantidade de agua(em metros cubicos) total consumida:           45
+ Valor a pagar:    454.519958    
+ -------------------------------------------------------------------------------------
+ Cia de Tratamento de Esgotos, Agua Oxigenada e Soda Caustica                                        
+ Aki lavamos Euros, Libras Esterlinas e outros numerarios                                            
+ Medicao de consumo de agua em Rosamaba                                                              
+ Data da medicao 1/04/2204                                                                           
+ Operador: Petrusco Parreiras                                                                        
+
+ Nome do consumidor: Eplogo Cafesal                
+ Leitura do consumo do mês anterior         3221
+ Leitura do consumo do mẽs corrente:         3246
+ Quantidade de agua(em metros cubicos) total consumida:           25
+ Valor a pagar:    145.470001    
+ -------------------------------------------------------------------------------------
+ Cia de Tratamento de Esgotos, Agua Oxigenada e Soda Caustica                                        
+ Aki lavamos Euros, Libras Esterlinas e outros numerarios                                            
+ Medicao de consumo de agua em Rosamaba                                                              
+ Data da medicao 1/04/2204                                                                           
+ Operador: Petrusco Parreiras                                                                        
+
+ Nome do consumidor: Ruperto Canasvieira           
+ Leitura do consumo do mês anterior         8631
+ Leitura do consumo do mẽs corrente:         8752
+ Quantidade de agua(em metros cubicos) total consumida:          121
+ Valor a pagar:    2268.64014    
+ -------------------------------------------------------------------------------------
+ Cia de Tratamento de Esgotos, Agua Oxigenada e Soda Caustica                                        
+ Aki lavamos Euros, Libras Esterlinas e outros numerarios                                            
+ Medicao de consumo de agua em Rosamaba                                                              
+ Data da medicao 1/04/2204                                                                           
+ Operador: Petrusco Parreiras                                                                        
+
+ Nome do consumidor: Phil Web Holambra             
+ Leitura do consumo do mês anterior         1234
+ Leitura do consumo do mẽs corrente:         1356
+ Quantidade de agua(em metros cubicos) total consumida:          122
+ Valor a pagar:    2292.51001    
+ -------------------------------------------------------------------------------------
+ Cia de Tratamento de Esgotos, Agua Oxigenada e Soda Caustica                                        
+ Aki lavamos Euros, Libras Esterlinas e outros numerarios                                            
+ Medicao de consumo de agua em Rosamaba                                                              
+ Data da medicao 1/04/2204                                                                           
+ Operador: Petrusco Parreiras                                                                        
+
+ Nome do consumidor: Gyl Berto Mirante             
+ Leitura do consumo do mês anterior          521
+ Leitura do consumo do mẽs corrente:          571
+ Quantidade de agua(em metros cubicos) total consumida:           50
+ Valor a pagar:    573.869995    
+ -------------------------------------------------------------------------------------

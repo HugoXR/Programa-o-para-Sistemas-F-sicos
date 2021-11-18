@@ -1,0 +1,78 @@
+ 
+Objetivo do programa: Calcular o valor do lado de um hexagono cujo
+perímetro equivalente ao de um circulo
+
+ Autor: Hugo Xavier Rodrigues
+ Matricula: 190108622
+ Data do programa: 10-09-2020
+ Ultima modificacao: 21-09-2020
+
+ Insira o valor do raio do círculo em centimetros
+19
+ Valor do raio do circulo    19.0000000      centimetros
+ Perimetro do circulo    119.380524      centimetros
+ Valor de PI usado    3.14159274      radianos
+
+ Lado do hexagono equivalente    19.8967533      centimetros
+
+
+
+------------------
+(program exited with code: 0)
+Press return to continue
+
+
+  
+========================================================================
+************************************************************************
+
+ Objetivo do programa: Calcular o valor do lado de um hexagono de valor
+ do perímetro equivalente ao de um circulo
+
+ Autor: Hugo Xavier Rodrigues
+ Matricula: 190108622
+ Data do programa: 10-09-2020
+ Ultima modificacao: 21-09-2020
+
+ Insira o valor do raio do círculo em centimetros
+5
+ Valor do raio do circulo    5.00000000      centimetros
+ Perimetro do circulo    31.4159279      centimetros
+ Valor de PI usado    3.14159274      radianos
+
+ Lado do hexagono equivalente    5.23598814      centimetros
+
+
+
+------------------
+(program exited with code: 0)
+Press return to continue
+
+
+
+========================================================================
+************************************************************************
+
+ Objetivo do programa: Calcular o valor do lado de um hexagono de valor
+ do perímetro equivalente ao de um circulo
+
+ Autor: Hugo Xavier Rodrigues
+ Matricula: 190108622
+ Data do programa: 10-09-2020
+ Ultima modificacao: 21-09-2020
+
+ Insira o valor do raio do círculo em centimetros
+300
+ Valor do raio do circulo    300.000000      centimetros
+ Perimetro do circulo    1884.95569      centimetros
+ Valor de PI usado    3.14159274      radianos
+
+ Lado do hexagono equivalente    314.159271      centimetros
+
+
+
+------------------
+(program exited with code: 0)
+Press return to continue
+
+

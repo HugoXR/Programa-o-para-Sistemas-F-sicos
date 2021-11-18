@@ -1,0 +1,21 @@
+ Para a data:           16  de agosto                           de        1958
+ O dia do ano é:         228
+
+ Para a data:           29  de abril                            de        1968
+ O dia do ano é:         120
+
+ Para a data:           29  de abril                            de        1900
+ O dia do ano é:         119
+
+ Para a data:            1  de janeiro                          de        1200
+ O dia do ano é:           1
+
+ Para a data:           15  de abril                            de        1938
+ O dia do ano é:         105
+
+ Para a data:           28  de setembro                         de        1938
+ O dia do ano é:         271
+
+ Para a data:           20  de julho                            de        1980
+ O dia do ano é:         202
+

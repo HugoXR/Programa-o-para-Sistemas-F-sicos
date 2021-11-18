@@ -1,0 +1,298 @@
+=============================================================================
+ Objetivo do programa: Ler os dados acerca do peso e sexo de uma pessoa
+ a fim de calcular a porcentagem de gordura corporal e o retornar o biotipo
+ dela
+
+ Autor: Hugo Xavier Rodrigues
+ Matricula: 190108622
+ Data do programa: 17/10/2020
+ Ultima modificacao: 21/10/2020
+
+ Digite o sexo da pessoa(F para feminino e M para masculino): 
+m
+ Digite o peso magro da pessoa(em Kg): 
+52.9
+ Digite o peso gordo da pessoa(em Kg): 
+13.3
+ Digite o peso residual da pessoa(em Kg): 
+18.11
+ ------------------------------
+ Sexo Masculino
+ Peso Magro =    52.9000015     kg
+ Peso Gordo =    13.3000002     kg
+ Peso Residual =    18.1100006     kg
+ Peso Total =    84.3100052     kg
+ Porcentagem de Gordura =    15.0000000     %
+ Biotipo: Em boa condicao fisica           
+ =============================================================================
+ 
+ Objetivo do programa: Ler os dados acerca do peso e sexo de uma pessoa
+ a fim de calcular a porcentagem de gordura corporal e o retornar o biotipo
+ dela
+
+ Autor: Hugo Xavier Rodrigues
+ Matricula: 190108622
+ Data do programa: 17/10/2020
+ Ultima modificacao: 21/10/2020
+ 
+ Digite o sexo da pessoa(F para feminino e M para masculino): 
+M
+ Digite o peso magro da pessoa(em Kg): 
+53.5
+ Digite o peso gordo da pessoa(em Kg): 
+4.1
+ Digite o peso residual da pessoa(em Kg): 
+26.9
+ ------------------------------
+ 
+ Sexo Masculino
+ Peso Magro =    53.5000000     kg
+ Peso Gordo =    4.09999990     kg
+ Peso Residual =    26.8999996     kg
+ Peso Total =    84.5000000     kg
+ Porcentagem de Gordura =    4.00000000     %
+ Biotipo: Gordura essencial                
+=============================================================================
+
+ Objetivo do programa: Ler os dados acerca do peso e sexo de uma pessoa
+ a fim de calcular a porcentagem de gordura corporal e o retornar o biotipo
+ dela
+
+ Autor: Hugo Xavier Rodrigues
+ Matricula: 190108622
+ Data do programa: 17/10/2020
+ Ultima modificacao: 21/10/2020
+ 
+ Digite o sexo da pessoa(F para feminino e M para masculino): 
+M
+ Digite o peso magro da pessoa(em Kg): 
+50.3
+ Digite o peso gordo da pessoa(em Kg): 
+10.1
+ Digite o peso residual da pessoa(em Kg): 
+23.4
+ ------------------------------
+ Sexo Masculino
+ Peso Magro =    50.2999992     kg
+ Peso Gordo =    10.1000004     kg
+ Peso Residual =    23.3999996     kg
+ Peso Total =    83.8000031     kg
+ Porcentagem de Gordura =    12.0000000     %
+ Biotipo: Atletico                         
+==============================================================================
+
+ Objetivo do programa: Ler os dados acerca do peso e sexo de uma pessoa
+ a fim de calcular a porcentagem de gordura corporal e o retornar o biotipo
+ dela
+
+ Autor: Hugo Xavier Rodrigues
+ Matricula: 190108622
+ Data do programa: 17/10/2020
+ Ultima modificacao: 21/10/2020
+ 
+ Digite o sexo da pessoa(F para feminino e M para masculino): 
+m
+ Digite o peso magro da pessoa(em Kg): 
+45.7
+ Digite o peso gordo da pessoa(em Kg): 
+6.1
+ Digite o peso residual da pessoa(em Kg): 
+25.9
+ ------------------------------
+ Sexo Masculino
+ Peso Magro =    45.7000008     kg
+ Peso Gordo =    6.09999990     kg
+ Peso Residual =    25.8999996     kg
+ Peso Total =    77.6999969     kg
+ Porcentagem de Gordura =    7.00000000     %
+ Biotipo: Atletico                         
+===============================================================================
+
+ Objetivo do programa: Ler os dados acerca do peso e sexo de uma pessoa
+ a fim de calcular a porcentagem de gordura corporal e o retornar o biotipo
+ dela
+
+ Autor: Hugo Xavier Rodrigues
+ Matricula: 190108622
+ Data do programa: 17/10/2020
+ Ultima modificacao: 21/10/2020
+ 
+ Digite o sexo da pessoa(F para feminino e M para masculino): 
+M
+ Digite o peso magro da pessoa(em Kg): 
+59.3
+ Digite o peso gordo da pessoa(em Kg): 
+19.7
+ Digite o peso residual da pessoa(em Kg): 
+21.9
+ ------------------------------
+ Sexo Masculino
+ Peso Magro =    59.2999992     kg
+ Peso Gordo =    19.7000008     kg
+ Peso Residual =    21.8999996     kg
+ Peso Total =    100.900002     kg
+ Porcentagem de Gordura =    19.0000000     %
+ Biotipo: Aceitavel                        
+==============================================================================
+
+ Objetivo do programa: Ler os dados acerca do peso e sexo de uma pessoa
+ a fim de calcular a porcentagem de gordura corporal e o retornar o biotipo
+ dela
+
+ Autor: Hugo Xavier Rodrigues
+ Matricula: 190108622
+ Data do programa: 17/10/2020
+ Ultima modificacao: 21/10/2020
+ 
+ Digite o sexo da pessoa(F para feminino e M para masculino): 
+M
+ Digite o peso magro da pessoa(em Kg): 
+45.3
+ Digite o peso gordo da pessoa(em Kg): 
+24.2
+ Digite o peso residual da pessoa(em Kg): 
+21.9
+ ------------------------------
+ Sexo Masculino
+ Peso Magro =    45.2999992     kg
+ Peso Gordo =    24.2000008     kg
+ Peso Residual =    21.8999996     kg
+ Peso Total =    91.4000015     kg
+ Porcentagem de Gordura =    26.0000000     %
+ Biotipo: Acima do peso                    
+===============================================================================
+
+ Objetivo do programa: Ler os dados acerca do peso e sexo de uma pessoa
+ a fim de calcular a porcentagem de gordura corporal e o retornar o biotipo
+ dela
+
+ Autor: Hugo Xavier Rodrigues
+ Matricula: 190108622
+ Data do programa: 17/10/2020
+ Ultima modificacao: 21/10/2020
+ 
+ Digite o sexo da pessoa(F para feminino e M para masculino): 
+f
+ Digite o peso magro da pessoa(em Kg): 
+37.4
+ Digite o peso gordo da pessoa(em Kg): 
+15.8
+ Digite o peso residual da pessoa(em Kg): 
+15.9
+ ------------------------------
+ Sexo Feminino
+ Peso Magro =    37.4000015     kg
+ Peso Gordo =    15.8000002     kg
+ Peso Residual =    15.8999996     kg
+ Peso Total =    69.0999985     kg
+ Porcentagem de Gordura =    22.0000000     %
+ Biotipo: Em boa condicao fisica           
+==============================================================================
+
+ Objetivo do programa: Ler os dados acerca do peso e sexo de uma pessoa
+ a fim de calcular a porcentagem de gordura corporal e o retornar o biotipo
+ dela
+
+ Autor: Hugo Xavier Rodrigues
+ Matricula: 190108622
+ Data do programa: 17/10/2020
+ Ultima modificacao: 21/10/2020
+ 
+ Digite o sexo da pessoa(F para feminino e M para masculino): 
+F
+ Digite o peso magro da pessoa(em Kg): 
+36.2
+ Digite o peso gordo da pessoa(em Kg): 
+16.7
+ Digite o peso residual da pessoa(em Kg): 
+10.3
+ ------------------------------
+ Sexo Feminino
+ Peso Magro =    36.2000008     kg
+ Peso Gordo =    16.7000008     kg
+ Peso Residual =    10.3000002     kg
+ Peso Total =    63.2000008     kg
+ Porcentagem de Gordura =    26.0000000     %
+ Biotipo: Aceitavel                        
+===============================================================================
+
+ Objetivo do programa: Ler os dados acerca do peso e sexo de uma pessoa
+ a fim de calcular a porcentagem de gordura corporal e o retornar o biotipo
+ dela
+
+ Autor: Hugo Xavier Rodrigues
+ Matricula: 190108622
+ Data do programa: 17/10/2020
+ Ultima modificacao: 21/10/2020
+ 
+ Digite o sexo da pessoa(F para feminino e M para masculino): 
+F
+ Digite o peso magro da pessoa(em Kg): 
+31.9
+ Digite o peso gordo da pessoa(em Kg): 
+21.7
+ Digite o peso residual da pessoa(em Kg): 
+10.4
+ ------------------------------
+ Sexo Feminino
+ Peso Magro =    31.8999996     kg
+ Peso Gordo =    21.7000008     kg
+ Peso Residual =    10.3999996     kg
+ Peso Total =    64.0000000     kg
+ Porcentagem de Gordura =    33.0000000     %
+ Biotipo: Acima do peso                    
+===============================================================================
+
+ Objetivo do programa: Ler os dados acerca do peso e sexo de uma pessoa
+ a fim de calcular a porcentagem de gordura corporal e o retornar o biotipo
+ dela
+
+ Autor: Hugo Xavier Rodrigues
+ Matricula: 190108622
+ Data do programa: 17/10/2020
+ Ultima modificacao: 21/10/2020
+ 
+ Digite o sexo da pessoa(F para feminino e M para masculino): 
+F
+ Digite o peso magro da pessoa(em Kg): 
+34.8
+ Digite o peso gordo da pessoa(em Kg): 
+11.6
+ Digite o peso residual da pessoa(em Kg): 
+10
+ ------------------------------
+ Sexo Feminino
+ Peso Magro =    34.7999992     kg
+ Peso Gordo =    11.6000004     kg
+ Peso Residual =    10.0000000     kg
+ Peso Total =    56.4000015     kg
+ Porcentagem de Gordura =    20.0000000     %
+ Biotipo: Em boa condicao fisica           
+==================================================================================
+
+ Objetivo do programa: Ler os dados acerca do peso e sexo de uma pessoa
+ a fim de calcular a porcentagem de gordura corporal e o retornar o biotipo
+ dela
+
+ Autor: Hugo Xavier Rodrigues
+ Matricula: 190108622
+ Data do programa: 17/10/2020
+ Ultima modificacao: 21/10/2020
+ 
+ Digite o sexo da pessoa(F para feminino e M para masculino): 
+f
+ Digite o peso magro da pessoa(em Kg): 
+38.5
+ Digite o peso gordo da pessoa(em Kg): 
+8.4
+ Digite o peso residual da pessoa(em Kg): 
+17.8
+ ------------------------------
+ Sexo Feminino
+ Peso Magro =    38.5000000     kg
+ Peso Gordo =    8.39999962     kg
+ Peso Residual =    17.7999992     kg
+ Peso Total =    64.6999969     kg
+ Porcentagem de Gordura =    12.0000000     %
+ Biotipo: Gordura essencial 
+==============================================================================
